@@ -1,0 +1,16 @@
+{
+   "evemailcheck_description": {
+      "message": "Displays the number of unread messages in your Eve Gate mail inbox. You can also click the button to open your inbox."
+   },
+   "evemailcheck_exception": {
+      "message": "exception: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "evemailcheck_name": {
+      "message": "Eve Mail Checker"
+   }
+}
